@@ -9,7 +9,7 @@
 - 👨‍💻 I'm Jr. Game Developer  
   
 
-- 🎓 I'm a computer engineering student at Beykent University  
+- 🎓 I'm a computer engineer student at Beykent University  
   
 
 - 🌱 I’m currently learning Unity and C#  
