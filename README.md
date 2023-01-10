@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋, My name is Engin Can Altınöz</div>  
   
 
-- 👨‍💻 I'm Intern Game Developer  
+- 👨‍💻 I'm Jr. Game Developer  
   
 
 - 🎓 I'm a computer engineering student at Beykent University  
