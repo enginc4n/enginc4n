@@ -12,7 +12,7 @@
 
 - 💻 I develop games for fun games
 
-- <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFph_PBebtNCg/company-logo_200_200/company-logo_200_200/0/1701873692706/q_and_q_logo?e=1743638400&v=beta&t=RrVUkGbgjZC-29oY4gWGEGHhYmYK28xSRCy52QjAIIM" 
+- <img src="q_and_q_logo.jpg" 
      alt="logo" width="20" height="20"/> &nbsp;Quick And Quality Developer
 <br/>  
 
