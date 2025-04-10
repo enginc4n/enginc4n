@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋, My name is Engin Can Altınöz</div>  
   
 
-- 👨‍💻 I'm a Jr. Backend Developer & Jr. Devops Engineer
+- 👨‍💻 I'm a Mid Backend Developer & Devops Engineer
 
 - 🎓 I graduated from Beykent University (Computer Engineering EN)
 
