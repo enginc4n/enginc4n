@@ -12,8 +12,6 @@
 
 - 💻 I develop games for fun games
 
-- <img src="q_and_q_logo.jpg" 
-     alt="logo" width="20" height="20"/> &nbsp;Quick And Quality Developer
 <br/>  
 
 
