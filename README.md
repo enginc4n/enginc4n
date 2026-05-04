@@ -1,11 +1,14 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 30px;">
-  <img src="github.gif" alt="GitHub profile banner" width="100" height="100" />
-
-  <div>
-    <h1 style="margin: 0;">Hi, I'm Engin Can</h1>
-    <h3 style="margin: 0;">Backend / DevOps Engineer</h3>
-  </div>
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="120" style="border: none;">
+      <img src="github.gif" width="100" />
+    </td>
+    <td align="left" style="border: none;">
+      <h1 style="margin: 0;">Hi, I'm Engin Can</h1>
+      <h3 style="margin: 0;">Backend / DevOps Engineer</h3>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://linkedin.com/in/enginc4n" target="_blank">
